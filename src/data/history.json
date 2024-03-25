@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Intern",
+    "organisation": "NPIT Solutions",
+    "startDate": "Jan 2022",
+    "endDate": "March 2022",
+    "experiences": ["Front-End Technology: Developed proficiency in HTML,CSS and JS"]
+    
+  },
+  {
+    "role": "Full Stack Java Development",
+    "organisation": "Profound Edutech",
+    "startDate": "Aug, 2023",
+    "endDate": "Feb, 2024",
+    "experiences":["Developed a personal portfolio website using React.js to showcase projects, skills, and experience,Utilized React hooks and functional components for efficient state management and component reusability."]
+    
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "Crime Hotspot Prediction Using Machine learning",
+    "skills": ["Java", "Database", "Android"],
+    "demo": "http://github.com/MayuriKolapkar",
+    "source": "http://github.com/MayuriKolapkar"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "Personal React Portfolio Website",
+    "skills": ["React", "JSX", "JS","Hooks"],
+    "demo": "http://github.com/MayuriKolapkar",
+    "source": "http://github.com/MayuriKolapkar"
+  }
+  
+]
